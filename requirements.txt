@@ -1,2 +1,13 @@
+# fastapi
 fastapi==0.110.2
 uvicorn==0.29.0
+
+# KoBERT
+# boto3
+# gluonnlp
+# mxnet
+# onnxruntime
+# sentencepiece
+torch
+transformers
+numpy
